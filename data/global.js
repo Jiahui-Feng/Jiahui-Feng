@@ -8,7 +8,7 @@ const navbarLinks = {
 
 const globalData = {
   image: "../files/images/avatar1.jpg",
-  resume: "../files/resume.pdf",
+  resume: "../files/CV_Jiahui FENG(Visiting).pdf",
   enAddress: "Beijing China ",
   email: "jhfeng@bjtu.edu.cn",
   twitterTitle: "",
