@@ -7,7 +7,7 @@ const navbarLinks = {
 };
 
 const globalData = {
-  image: "../files/avatar1.jpg",
+  image: "../files/images/avatar1.jpg",
   resume: "../files/resume.pdf",
   enAddress: "Beijing China ",
   email: "jhfeng@bjtu.edu.cn",
