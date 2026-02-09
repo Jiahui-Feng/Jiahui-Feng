@@ -10,8 +10,6 @@ const globalData = {
   image: "../files/profile.jpg",
   resume: "../files/resume.pdf",
   enAddress: "Beijing China ",
-  faAddress: " آدرس شما ",
-  phone: "09120000000",
   email: "jhfeng@bjtu.edu.cn",
   twitterTitle: "",
   twitter: "",
